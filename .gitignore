@@ -2,3 +2,8 @@
 *.zip
 *.RData
 *.Rhistory
+*.xlsx
+*.xml
+*.for
+*.json
+*.pdf
